@@ -1,0 +1,281 @@
+body{background-color: darkgray;}
+
+#francia{transform: rotate(15deg);
+}
+#letraa{ 
+    position: absolute;
+    background-color: darkblue;
+    top: 180px;
+    left: 400px;
+    height: 150px;
+    width: 70px;
+    border-left: solid black;
+    border-top: solid black;
+    border-bottom: solid black; 
+}
+
+#letrab{
+    position: absolute;
+    background-color: white;
+    top: 180px;
+    height: 150px;
+    width: 70px;
+    left: 474px;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+
+#letrac{
+    background-color: #ec1920;
+    position: absolute;
+    top: 180px;
+    height: 150px;
+    width: 70px;
+    left: 544px;
+    border-right: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+
+#c1{
+    transform: rotate(15deg);
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    width: 210px;
+    height: 180px;
+    border-bottom: solid black;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+}
+
+#c2{
+    background-color: #ec1920;
+    position: relative;
+    top: 80px;
+    height: 28px;
+    width: 210px;
+    left: 0px;
+}
+
+#c3{
+    background-color: #ec1920;
+    position: relative;
+    top: -28px;
+    width: 28px;
+    height: 180px;
+    left: 90px;
+}
+
+#chile{
+    transform: rotate(15deg);
+}
+#a1{
+    background-color: red;
+    position: absolute;
+    top: 550px;
+    width: 290px;
+    height: 100px;
+    border-bottom: solid black;
+    border-left: solid black;
+    border-right: solid black;
+    left: 400px
+}
+
+#a2{
+    background-color: blue;
+    position: absolute;
+    top: 450px;
+    width: 100px;
+    height: 100px;
+    border-top: solid black;
+    left: 400px
+}
+
+#a3{
+    background-color: white;
+    position: absolute;
+    top: 450px;
+    width: 193px;
+    height: 100px;
+    left: 500px;
+    border-right: solid black;
+    border-top: solid black;
+}
+.sr{
+    height: 100px;
+    width:100px ;
+    position: absolute;
+    left: -100px;
+    border-left: solid black;
+}
+#argentina{transform: rotate(15deg);
+}
+#b1{background-color: #40cfff;
+    position: absolute;
+    top: 690px;
+    left: 100px;
+    width: 500px;
+    height: 100px;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+
+}
+#b2{background-color: white;
+    position: absolute;
+    top: 793px;
+    left: 100px;
+    width: 500px;
+    height: 100px;
+    border-left: solid black;
+    border-right: solid black;
+}
+#b3{background-color: #40cfff;
+    position: absolute;
+    top: 893px;
+    left: 100px;
+    width: 500px;
+    height: 100px;
+    border-left: solid black;
+    border-right: solid black;
+    border-bottom: solid black;
+}
+.sol{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 200px;
+}
+#canada{
+position: absolute;
+transform: rotate(15deg);
+top: -50px;
+left: 100;
+}
+#e1{
+    background-color: #FF0000;
+    position: absolute;
+    width: 70px;
+    height: 200px;
+    left: 630px;
+    top: 150px;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-left: solid black;
+}
+#e2{
+    background-color: white;
+    position: absolute;
+    width: 130px;
+    height: 200px;
+    left: 700px;
+    top: 150px;
+    border-top: solid black;
+    border-bottom: solid black;
+}
+#e3{
+    background-color: #FF0000;
+    position: absolute;
+    width: 70px;
+    height: 200px;
+    left: 809px;
+    top: 150px;
+    border-bottom: solid black;
+    border-top: solid black;
+    border-right: solid black;
+}
+.hoja{
+    position: absolute;
+    width: 80px;
+    height: 90px;
+    right: 35px;
+    top: 55px;
+}
+#mexico{
+position: absolute;
+top: 300px;
+transform: rotate(15deg);
+}
+#g1{
+background: #009846;
+position: absolute;
+width: 70px;
+height: 150px;
+left: 800px;
+border-left: solid black;
+border-top: solid black;
+border-bottom: solid black;
+}
+#g2{
+background-color: white;
+position: absolute;
+width: 70px;
+height: 150px;
+left: 870px;
+border-bottom: solid black;
+border-top: solid black;
+}
+#g3{
+background-color: #ec1920;
+position: absolute;
+width: 70px;
+height: 150px;
+left: 940px;
+border-bottom: solid black;
+border-top: solid black;
+border-right: solid black;
+}
+.aguila{
+position: absolute;
+width: 70px;
+height: 70px;
+top: 35px;
+}
+#guatemala{
+position: absolute;
+top: 20px;
+transform: rotate(15deg);
+}
+#t1{
+background-color: #40cfff;
+position: absolute;
+width: 80px;
+height: 200px;
+left: 940px;
+border-bottom: solid black;
+border-left: solid black;
+border-top: solid black;
+}
+#t2{
+background-color: white;
+position: absolute;
+width: 80px;
+height: 200px;
+left: 1020px;
+border-top: solid black;
+border-bottom: solid black;
+}
+#t3{
+background-color: #40cfff;
+position: absolute;
+width: 80px;
+height: 200px;
+left: 1100px;
+border-right: solid black;
+border-top: solid black;
+border-bottom: solid black;
+}
+.escudo{
+position: absolute;
+width: 80px;
+height: 80px;
+top: 48px;
+
+}
+
+
+
+
+

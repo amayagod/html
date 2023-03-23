@@ -1,0 +1,138 @@
+body{background-color: darkgray;}
+#letraa{ 
+position: absolute;
+    background-color: darkblue;
+    height: 150px;
+    width: 70px;
+    border-left: solid black;
+    border-top: solid black;
+    border-bottom: solid black;
+
+    
+}
+
+#letrab{
+    position: absolute;
+background-color: white;
+height: 150px;
+width: 70px;
+left: 78px;
+
+border-top: solid black;
+border-bottom: solid black;
+
+
+}
+
+#letrac{background-color: #ec1920;
+    position: absolute;
+    height: 150px;
+    width: 70px;
+    left: 146px;
+    border-right: solid black;
+border-top: solid black;
+border-bottom: solid black;
+
+}
+
+#c1{transform: rotate(45deg);
+    background-color: white;
+    position: absolute;
+    top: 200px;
+    width: 210px;
+    height: 180px;
+    border-bottom: solid black;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+}
+
+#c2{transform: rotate(45deg);
+    background-color: #ec1920;
+    position: absolute;
+    top: 268px;
+    height: 28px;
+    width: 210px;
+    left: 10px;
+}
+
+#c3{transform: rotate(45deg);
+    background-color: #ec1920;
+    position: absolute;
+    top: 202px;
+    width: 28px;
+height: 180px;
+left: 100px;
+}
+
+#a1{background-color: red;
+position: absolute;
+top: 550px;
+width: 290px;
+height: 100px;
+border-bottom: solid black;
+border-left: solid black;
+border-right: solid black;
+
+}
+#a2{background-color: blue;
+    position: absolute;
+    top: 450px;
+width: 100px;
+height: 100px;
+border-top: solid black;
+
+}
+#a3{background-color: white;
+    position: absolute;
+    top: 450px;
+    width: 198px;
+    height: 100px;
+    left: 100px;
+    border-right: solid black;
+    border-top: solid black;
+
+}
+.sr{
+    height: 100px;
+    width:100px ;
+    position: absolute;
+    left: -92px;
+    border-left: solid black;
+}
+#b1{background-color: #40cfff;
+    position: absolute;
+    top: 690px;
+    width: 500px;
+    height: 100px;
+    border-top: solid black;
+    border-left: solid black;
+    border-right: solid black;
+
+}
+#b2{background-color: white;
+    position: absolute;
+    top: 793px;
+    width: 500px;
+    height: 100px;
+    border-left: solid black;
+border-right: solid black;
+
+}
+#b3{background-color: #40cfff;
+    position: absolute;
+    top: 893px;
+width: 500px;
+height: 100px;
+border-left: solid black;
+border-right: solid black;
+border-bottom: solid black;
+
+
+}
+.sol{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    right: 200px;
+}

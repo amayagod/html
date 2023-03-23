@@ -1,0 +1,42 @@
+*{;
+padding: 0%;
+margin: 0%;
+box-sizing: border-box;
+}
+
+body{
+background-color: #53adf1;
+height: 100vh;
+display: flex;
+justify-content: center;
+}
+
+.bandera {
+width: 90%;
+max-width: 500%;
+height: 300%;
+margin-top: 500px;
+
+box-shadow: 0 150px 0
+#f5cb15 inset,
+                0 225px 0
+#00368F inset,
+                0 300px 0
+#c81125 inset,
+                0 10px 40px
+  -5px rgba(0, 0, 0, .4),
+                0 20px 10px
+-10px rgba(0, 0, 0, .2);
+cursor: pointer;
+
+
+transition: all .2s ease;
+animation: mover .5s
+infinite alternate ease-in-out;}
+
+@keyframes mover {
+to{
+    transform: scale(1.1);
+}
+
+}
